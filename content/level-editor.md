@@ -1,6 +1,6 @@
 title: Level Editor
 
-Frozen Synapse features a complete level editor. It is accessed by typing "loadeditor();" into the console (Accessed with ~ key). It's similar in some ways to the [[advanced-setup.md|Advanced Setup]], but has a somewhat different feature-set. Players are able to either create a new level from scratch or edit a saved map. It is also possible to import maps from png image files. Players are able to modify the landscape and place triggers around the map to create unique scenarios. It is possible to use a custom level in a multiplayer match, but it is not recommended as it may cause bugs that may result in a broken game.
+Frozen Synapse features a complete level editor. It is accessed by typing `loadeditor();` into the console (Accessed with ~ key). It's similar in some ways to the [[advanced-setup.md|Advanced Setup]], but has a somewhat different feature-set. Players are able to either create a new level from scratch or edit a saved map. It is also possible to import maps from png image files. Players are able to modify the landscape and place triggers around the map to create unique scenarios. It is possible to use a custom level in a multiplayer match, but it is not recommended as it may cause bugs that may result in a broken game.
 
 
 
