@@ -1,10 +1,10 @@
 title: Making a plan
 
-To start making a plan, left-click on the [[unit-types.md|unit]] you wish to select. 
+To start making a plan, left-click on the [[unit-types.md|unit]] you wish to select.
 
 <div class="thumb tright"><div class="thumbinner" style="width:182px;"><img src="images/2/2e/Basic_plan.jpg" />  <div class="thumbcaption">A basic plan, with waypoints and an aim command.</div></div></div>
 
-You will probably want to move your unit somewhere, so double-click on the map wherever you want him or her to go: this will create a [[waypoint.md|waypoint]].
+You will probably want to move your unit somewhere, so double-click on the map wherever you want him or her to go: this will create a [[move.md|waypoint]].
 
 Waypoints are generated with pathfinding: you don't need to make multiple waypoints to guide your unit around an obstacle.  If you want to override the pathfinding and position the next waypoint literally anywhere on the map, just hold down shift and double-click.
 
@@ -37,7 +37,7 @@ To tell your unit to aim:
 3.  Test your plan to ensure your order is working correctly
 <div class="thumb tright"><div class="thumbinner" style="width:302px;"><img src="images/thumb/9/9e/Rocket_plan.jpg/300px-Rocket_plan.jpg" />  <div class="thumbcaption">A rocket launcher's fire command.</div></div></div>
 
-Your unit will continue aiming in the direction you have indicated as he walks along.  To change the direction in which he is aiming, simply issue another aim order using the above method. If you would like to tell your unit to stop aiming completely, you will have to issue a "Cancel Aim" order.  Issuing other kinds of orders is dealt with in the next section. 
+Your unit will continue aiming in the direction you have indicated as he walks along.  To change the direction in which he is aiming, simply issue another aim order using the above method. If you would like to tell your unit to stop aiming completely, you will have to issue a "Cancel Aim" order.  Issuing other kinds of orders is dealt with in the next section.
 
 ### <span class="mw-headline" id="Firing">Firing</span>
 
@@ -57,7 +57,7 @@ You can move orders around your plan by dragging them, and you can delete specif
 
 *   [[turns.md|Turns]]
 
-<!-- 
+<!--
 NewPP limit report
 Preprocessor node count: 19/1000000
 Post‐expand include size: 0/2097152 bytes

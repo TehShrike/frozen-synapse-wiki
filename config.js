@@ -1,10 +1,11 @@
 noddityConfig = {
-	title: 'Noddity',
+	title: 'Frozen Synapse Wiki',
 	noddityRoot: window.location.pathname + 'content/',
-	editLink: 'https://github.com/TehShrike/noddity/edit/master/content/',
-	logo: 'logo.svg',
+	editLink: 'https://github.com/TehShrike/frozen-synapse-wiki/edit/master/content/',
+	logo: null,
 	errorPage: '404.md',
 	pathPrefix: '#!/',
-	pagePathPrefix: 'post/',
-	debug: true
+	pagePathPrefix: 'page/',
+	debug: true,
+	sidebar: 'sidebar.md'
 }

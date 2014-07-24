@@ -16,7 +16,7 @@ This is a list of the shortcuts in FS.
 <tr>
 <td>Double Left-Click
 </td>
-<td>Creates a [[waypoint.md|Waypoint]].
+<td>Creates a [[move.md|Waypoint]].
 </td></tr>
 <tr>
 <td>Right-Click
@@ -124,7 +124,7 @@ This is a list of the shortcuts in FS.
 <td>Selects one of your units by it's number.
 </td></tr></table>
 
-<!-- 
+<!--
 NewPP limit report
 Preprocessor node count: 1/1000000
 Post‐expand include size: 0/2097152 bytes

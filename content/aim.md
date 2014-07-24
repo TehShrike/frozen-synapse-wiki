@@ -9,13 +9,13 @@ For most [[unit-types.md|units]], this command focuses their attention in a fixe
 
 ## <span class="mw-headline" id="Using_the_Aim_Command"> Using the Aim Command </span>
 
-This section refers to use of the Aim command on the Sniper, Shotgun and Machine Gun units.  The Aim command functions differently for Grenade Launcher and Rocket Launcher units, and these are explained in the next section. The Aim command is initiated by clicking and dragging the green crosshair found at the upper left corner of a selected [[waypoint.md|waypoint]].  As you drag the crosshair, a visual representation will show you the area the unit is focused on.  The combat bonus is applied against all enemy units within this zone.  
+This section refers to use of the Aim command on the Sniper, Shotgun and Machine Gun units.  The Aim command functions differently for Grenade Launcher and Rocket Launcher units, and these are explained in the next section. The Aim command is initiated by clicking and dragging the green crosshair found at the upper left corner of a selected [[move.md|waypoint]].  As you drag the crosshair, a visual representation will show you the area the unit is focused on.  The combat bonus is applied against all enemy units within this zone.
 
 The following orders influence the Aim command in one manner or another
 
 ### <span class="mw-headline" id="Continue_on_Sight">Continue on Sight</span>
 
-After selecting [[continue-on-sight.md|Continue on Sight]] a unit's aim command is cancelled and the unit will behave as per the Continue on Sight order.  
+After selecting [[continue-on-sight.md|Continue on Sight]] a unit's aim command is cancelled and the unit will behave as per the Continue on Sight order.
 
 ### <span class="mw-headline" id="Cancel_Aim">Cancel Aim</span>
 
@@ -35,7 +35,7 @@ The [[check.md|Check]] command functions as normal whilst a unit is under the in
 
 *   Aiming impacts your Line of Sight, so in Dark mode matches you may not see an enemy if you are aiming in the wrong direction.  Depending the map, make sure you use Aim or the Continue on Sight/Check combination to give yourself Line of Sight to other areas from time to time, to stop the enemy getting the drop on you. Be careful using Aim to do this, as you will engage any enemy that you see, which is bad news if they're behind cover
 
-<!-- 
+<!--
 NewPP limit report
 Preprocessor node count: 27/1000000
 Post‐expand include size: 0/2097152 bytes
