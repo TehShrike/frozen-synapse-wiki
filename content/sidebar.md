@@ -1,49 +1,47 @@
-title: Sidebar
+title: Sideb
+<a href="#!/page/index."><img alt="Frozen Synapse logo" class="logo" src="images/fslogo155.png" /></
 
-<a href="#!/"><img alt="Frozen Synapse logo" class="logo" src="images/fslogo155.png" /></a>
-<!-- ![Frozen Synapse logo](#!/page/images/fslogo155.png) -->
-
-- [Campaign‏‎](#!/page/campaign.md)
-- [Principles of Combat‏‎](#!/page/principles-of-combat.md)
-- [Unit Types‏‎](#!/page/unit-types.md)
-- [Game Modes‏‎](#!/page/game-modes.md)
-- [Shortcuts‏‎](#!/page/shortcuts.md)
-- [Disputed‏‎](#!/page/disputed.md)
-- [Getting Started‏‎](#!/page/getting-started.md)
-- [Secure‏‎](#!/page/secure.md)
-- [Charge‏‎](#!/page/charge.md)
-- [Line of Sight‏‎](#!/page/line-of-sight.md)
-- [Making a plan‏‎](#!/page/making-a-plan.md)
-- [Aim‏‎](#!/page/aim.md)
-- [Hostage‏‎](#!/page/hostage.md)
-- [Ignore/Focus‏‎](#!/page/ignore-focus.md)
-- [Check‏‎](#!/page/check.md)
-- [Cover‏‎](#!/page/cover.md)
-- [Scoring‏‎](#!/page/scoring.md)
-- [Level Editor‏‎](#!/page/level-editor.md)
-- [Extermination‏‎](#!/page/extermination.md)
-- [Zones‏‎](#!/page/zones.md)
-- [Continue on Sight‏‎](#!/page/continue-on-sight.md)
-- [Stance‏‎](#!/page/stance.md)
-- [Advanced Setup‏‎](#!/page/advanced-setup.md)
-- [Distraction‏‎](#!/page/distraction.md)
-- [Hostage Research‏‎](#!/page/hostage-research.md)
-- [IRC‏‎](#!/page/irc.md)
-- [Dark Mode‏‎](#!/page/dark-mode.md)
-- [Rank‏‎](#!/page/rank.md)
-- [Turns‏‎](#!/page/turns.md)
-- [Bidding‏‎](#!/page/bidding.md)
-- [Matchmaking‏‎](#!/page/matchmaking.md)
-- [Suggested Modes‏‎](#!/page/suggested-modes.md)
-- [Enyo:Nomad‏‎](#!/page/enyo-nomad.md)
-- [Light Mode‏‎](#!/page/light-mode.md)
-- [Orders‏‎](#!/page/orders.md)
-- [Markov Geist‏‎](#!/page/markov-geist.md)
-- [Co-op‏‎](#!/page/co-op.md)
-- [Duplicate‏‎](#!/page/duplicate.md)
-- [UI‏‎](#!/page/ui.md)
-- [Move‏‎](#!/page/move.md)
-- [Panarch Collaborative‏‎](#!/page/panarch-collaborative.md)
-- [Layers‏‎](#!/page/layers.md)
-- [Console‏‎](#!/page/console.md)
-- [Toolbox‏‎](#!/page/toolbox.md)
+* [[campaign.md|Campaign‏‎]]
+* [[principles-of-combat.md|Principles of Combat‏‎]]
+* [[unit-types.md|Unit Types‏‎]]
+* [[game-modes.md|Game Modes‏‎]]
+* [[shortcuts.md|Shortcuts‏‎]]
+* [[disputed.md|Disputed‏‎]]
+* [[getting-started.md|Getting Started‏‎]]
+* [[secure.md|Secure‏‎]]
+* [[charge.md|Charge‏‎]]
+* [[line-of-sight.md|Line of Sight‏‎]]
+* [[making-a-plan.md|Making a plan‏‎]]
+* [[aim.md|Aim‏‎]]
+* [[hostage.md|Hostage‏‎]]
+* [[ignore-focus.md|Ignore/Focus‏‎]]
+* [[check.md|Check‏‎]]
+* [[cover.md|Cover‏‎]]
+* [[scoring.md|Scoring‏‎]]
+* [[level-editor.md|Level Editor‏‎]]
+* [[extermination.md|Extermination‏‎]]
+* [[zones.md|Zones‏‎]]
+* [[continue-on-sight.md|Continue on Sight‏‎]]
+* [[stance.md|Stance‏‎]]
+* [[advanced-setup.md|Advanced Setup‏‎]]
+* [[distraction.md|Distraction‏‎]]
+* [[hostage-research.md|Hostage Research‏‎]]
+* [[irc.md|IRC‏‎]]
+* [[dark-mode.md|Dark Mode‏‎]]
+* [[rank.md|Rank‏‎]]
+* [[turns.md|Turns‏‎]]
+* [[bidding.md|Bidding‏‎]]
+* [[matchmaking.md|Matchmaking‏‎]]
+* [[suggested-modes.md|Suggested Modes‏‎]]
+* [[enyo-nomad.md|Enyo:Nomad‏‎]]
+* [[light-mode.md|Light Mode‏‎]]
+* [[orders.md|Orders‏‎]]
+* [[markov-geist.md|Markov Geist‏‎]]
+* [[co-op.md|Co-op‏‎]]
+* [[duplicate.md|Duplicate‏‎]]
+* [[ui.md|UI‏‎]]
+* [[move.md|Move‏‎]]
+* [[panarch-collaborative.md|Panarch Collaborative‏‎]]
+* [[layers.md|Layers‏‎]]
+* [[console.md|Console‏‎]]
+* [[toolbox.md|Toolbox‏‎]]
