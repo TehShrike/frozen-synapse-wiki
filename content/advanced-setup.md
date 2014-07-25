@@ -12,7 +12,7 @@ Not to be confused with the [[level-editor.md|Level Editor]].
 
 Levels can be loaded from and saved to "..\frozen synapse\psychoff\data\userlevels".
 
-## <span class="editsection">[[">edit](/index.php?title=Advanced_Setup&amp;action=edit&amp;section=2 "Advanced_Setup&amp;action=edit&amp;section=2")]</span> <span class="mw-headline" id="Generate_.3CMap_Type.3E">Generate &lt;Map Type&gt;</span>
+## Generate &lt;Map Type&gt;
 
 These buttons allow you to randomly generate a map based on the rules of each game type. 
 
@@ -28,7 +28,7 @@ These buttons allow you to randomly generate a map based on the rules of each ga
 
 6.  Symmetrical: Generates a symmetrical map with symmetrical unit placement, no specific game zones or markers
 
-## <span class="editsection">[[">edit](/index.php?title=Advanced_Setup&amp;action=edit&amp;section=3 "Advanced_Setup&amp;action=edit&amp;section=3")]</span> <span class="mw-headline" id="Add_.3CUnit_Type.3E">Add &lt;Unit Type&gt;</span>
+## Add &lt;Unit Type&gt;
 
 Adds a randomly placed unit of the specified type to the board. The unit will be on the green team by default, unless the "Add for red team" checkbox is filled. Units can then be selected and moved around the map.(done by click and drag)
 
@@ -57,13 +57,3 @@ Submits the created level, allows you to choose further options:
 6.  Turn Length: Amount of time for each turn (in milliseconds: 1 second = 1000 ms)
 
 When finished, press submit to challenge your chosen opponent. Be warned, however, that fiddling with the settings too much can cause some very broken games.
-
-<!-- 
-NewPP limit report
-Preprocessor node count: 19/1000000
-Post‐expand include size: 0/2097152 bytes
-Template argument size: 0/2097152 bytes
-Expensive parser function count: 0/100
--->
-
-<!-- Saved in parser cache with key fs_error420_com:pcache:idhash:200-0!*!0!!en!2!* and timestamp 20140722202919 -->
