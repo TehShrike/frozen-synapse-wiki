@@ -1,6 +1,6 @@
 title: Sidebar
 
-<a href="#!/page/index.md"><img alt="Frozen Synapse logo" class="logo" src="images/fslogo155.png" /></a>
+<a href="#!/"><img alt="Frozen Synapse logo" class="logo" src="images/fslogo155.png" /></a>
 
 * [[campaign.md|Campaign]]
 * [[principles-of-combat.md|Principles of Combat]]
