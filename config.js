@@ -7,5 +7,5 @@ noddityConfig = {
 	pathPrefix: '#!/',
 	pagePathPrefix: 'page/',
 	debug: false,
-	sidebar: 'sidebar.md'
+	template: 'post'
 }

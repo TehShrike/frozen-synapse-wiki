@@ -1,0 +1,23 @@
+title: Post template
+markdown: false
+
+{{#editLink}}
+	<div id="edit-post-link"><a href="{{editLink}}{{current}}">Edit this post</a></div>
+{{/editLink}}
+
+<div id="sidebar">
+	::sidebar.md::
+</div>
+
+<div id="main">
+	<article>
+		<div>
+			{{#title}}
+				<h1>{{title}}</h1>
+			{{/title}}
+			<div class="post-content">
+				{{>current}}
+			</div>
+		</div>
+	</article>
+</div>
